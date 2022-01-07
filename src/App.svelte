@@ -3,17 +3,24 @@
 </script>
 
 <main>
-	<h1>Hello {name}!</h1>
-	<p>Post content and earn Bitcoin</p>
-<form>
-	<input type="email"/>
-	<button type="submit">Subscribe</button>
-</form>
+	<h1>{name}</h1>
 	
+
+	<h3>Coming Soon!</h3>
+  <a href="https://www.instagram.com/secksiapp/" target="_blank">
+	<img  alt="insta" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="100px"/>
+
+  </a>	
+  <br />
+  <a href="https://twitter.com/SecksiApp" target="_blank">
+	<img  alt="twitter" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" width="100px" />
+
+  </a>
 </main>
 
 <style>
 	main {
+		
 		text-align: center;
 		padding: 1em;
 		max-width: 240px;
@@ -21,7 +28,7 @@
 	}
 
 	h1 {
-		color: #0b82de;
+		color: #ce16df;
 		text-transform: uppercase;
 		font-size: 4em;
 		font-weight: 100;
